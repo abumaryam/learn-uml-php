@@ -3,6 +3,8 @@
 Ini adalah merupakan contoh dari penggunaan UML yang diterjemahkan dalam bahasa PHP.
 Jika persepsi yang ada terdapat kekeliruan, silahkan comment di issues.
 
+Untuk login silahkan akses halaman sgetdatalogin.php
+
 ## Use Case Diagram
 
 ![Use Case Diagram](/umlpicture/03-usecase.jpg)
